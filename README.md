@@ -5,7 +5,7 @@
 **Kardio-Onko** is a comprehensive graphical user interface (GUI) developed to support electronic data collection (eCRF) for the clinical study:
 
 > **EU Clinical Trial Number:** 2025-521573-14-00  
-> **Title:** 
+> **Title:** TBD
 > **Conducted by:** Institute of Clinical Pharmacology (IKP)  
 > **Location:** Robert Bosch Krankenhaus, Stuttgart, Germany
 
@@ -29,7 +29,7 @@ Germany
 **Kardio-Onko** ist eine umfassende grafische Benutzeroberfläche (GUI), die zur Unterstützung der Datenerhebung und -analyse im Rahmen der klinischen Studie entwickelt wurde:
 
 > **EU Clinical Trial Number:** 2025-521573-14-00  
-> **Titel:** 
+> **Titel:** TBD
 > **Durchgeführt von:** Institut für Klinische Pharmakologie (IKP)  
 > **Ort:** Robert-Bosch-Krankenhaus, Stuttgart, Deutschland
 
